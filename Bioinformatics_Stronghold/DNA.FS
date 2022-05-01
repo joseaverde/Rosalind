@@ -1,6 +1,7 @@
 ( Counting DNA Nucleotides )
 
-(  PROBLEM
+( 
+   PROBLEM
    A string is simply an ordered collection of symbols selected from some
    alphabet and formed into a word; the length of a string is the number of
    symbols that it contains.
@@ -15,11 +16,14 @@
          times that the symbols 'A', 'C', 'G' and 'T' occur in `s'.
   
    SAMPLE DATASET
-   Input:
-   >> AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC
+      Input:
+      << AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC
    
-   Output:
-   << 20 12 17 21 )
+      Output:
+      >> 20 12 17 21
+
+   AUTHOR : José Antonio Verde Jiménez  <joseaverde@protonmail.com>
+)
 
 \ There is a maximum of 1000 characters per string.
 1000 CONSTANT MAX-LENGTH
