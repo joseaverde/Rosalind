@@ -1,3 +1,0 @@
-abstract project Rosalind_Config is
-   Crate_Version := "0.0.0";
-end Rosalind_Config;

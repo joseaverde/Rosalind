@@ -1,9 +1,0 @@
-name = "rosalind"
-description = "Shiny new project"
-version = "0.0.0"
-
-authors = ["José Antonio Verde Jiménez"]
-maintainers = ["José Antonio Verde Jiménez <joseaverde@protonmail.com>"]
-maintainers-logins = ["joseaverde"]
-
-executables = ["rosalind"]
